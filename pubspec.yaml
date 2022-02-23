@@ -40,7 +40,8 @@ dependencies:
   json_annotation: any
 
   fl_chart: any
-  badges: any
+  go_router: ^3.0.1
+#  badges: any
 
 dev_dependencies:
   flutter_test:
